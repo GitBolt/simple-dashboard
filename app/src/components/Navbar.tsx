@@ -1,4 +1,4 @@
-import { Flex, Box, Text, Button, useColorModeValue } from "@chakra-ui/react"
+import { Flex, Box, Text, useColorModeValue } from "@chakra-ui/react"
 import Link from "next/link";
 import dynamic from "next/dynamic";
 
